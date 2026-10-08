@@ -12,7 +12,7 @@ PS. Notice the circular pocket on the side that faces the gantry.
 This is for the head of one of the screws that attaches the gantry to the rail-block.
 
 
-Bolts required:
+Bolts required (on each side):
 * 2 x 35mm M4 hex bolts for attachment to the gantry
 * 2 x 25mm M4 hex bolts for attachment to the ballscrews nuts
 
