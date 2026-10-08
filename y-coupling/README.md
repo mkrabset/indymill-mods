@@ -16,7 +16,7 @@ Bolts required (on each side):
 * 2 x 35mm M4 hex bolts for attachment to the gantry
 * 2 x 25mm M4 hex bolts for attachment to the ballscrews nuts
 
-The 25mm bolts needs to be mounted first as the holes intersect.
+The 25mm bolts need to be mounted first as the holes intersect.
 Secure the 25mm bolts with M4 nyloc nuts on the other side of the ballscrew nut.
 Then attach to the gantry. 
 
